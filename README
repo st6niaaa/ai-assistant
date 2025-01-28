@@ -1,4 +1,4 @@
-  # Speech AI Assistant
+# Speech AI Assistant
 
 Este projeto é um assistente de voz baseado em Python que utiliza reconhecimento de fala, síntese de voz e integração com uma API de IA para gerar respostas inteligentes a partir das entradas do usuário.
 
