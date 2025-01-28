@@ -24,4 +24,4 @@ Este projeto é um assistente de voz baseado em Python que utiliza reconheciment
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seuusuario/speech-ai-assistant.git
-   cd speech-ai-assistant```
+   cd speech-ai-assistant
